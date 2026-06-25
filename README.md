@@ -1,4 +1,13 @@
 # TWDayOff
+![PowerShell](https://img.shields.io/badge/PowerShell-7+-5391FE?logo=powershell&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows11&logoColor=white)
+![HTML](https://img.shields.io/badge/Output-HTML-E34F26?logo=html5&logoColor=white)
+![License](https://img.shields.io/github/license/sugigu/TWDayOff)
+![Repo Size](https://img.shields.io/github/repo-size/sugigu/TWDayOff)
+![Last Commit](https://img.shields.io/github/last-commit/sugigu/TWDayOff)
+![Taiwan](https://img.shields.io/badge/Taiwan-Weekends%20%2B%20Official%20Holidays-green)
+
+A tiny utility that answers one simple question: "When's my next day off?"
 
 A tiny local HTML day-off countdown for Taiwan.
 
